@@ -15,6 +15,10 @@ class Attributes:
     TANGENT: Optional[int] = None
     TEXCOORD_0: Optional[int] = None
     TEXCOORD_1: Optional[int] = None
+    TEXCOORD_2: Optional[int] = None
+    TEXCOORD_3: Optional[int] = None
+    TEXCOORD_4: Optional[int] = None
+    TEXCOORD_5: Optional[int] = None
     COLOR_0: Optional[int] = None
     JOINTS_0: Optional[int] = None
     WEIGHTS_0: Optional[int] = None
